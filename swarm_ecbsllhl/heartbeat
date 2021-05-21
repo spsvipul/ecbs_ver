@@ -1,0 +1,19 @@
+Running on: ip-10-19-18-34
+PID: 28383
+Harness PID: 28379
+Start time: Thu May 20 12:50:07 2021
+Current time: Thu May 20 12:52:17 2021
+In fast-forward: no
+Stats since start:
+ 13693925 cycles
+ 105337 cycles/s
+ 52327686 task-cycles committed
+ 198210968 task-cycles aborted
+ 20355 tasks committed
+ 149044 task aborts
+ 0 application heartbeats committed
+Current gvt:
+ 3510:2784022.3510:2872632
+Stats in last interval (10s):
+ 0 cycles
+ 0 cycles/s

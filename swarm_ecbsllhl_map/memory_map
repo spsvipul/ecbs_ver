@@ -1,0 +1,171 @@
+00400000-0042b000 r-xp 00000000 103:01 6915903                           /home/ubuntu/github/swarm_ecbsllhl/source_codes/ecbs_simple_swarm
+0062a000-0062c000 r--p 0002a000 103:01 6915903                           /home/ubuntu/github/swarm_ecbsllhl/source_codes/ecbs_simple_swarm
+0062c000-0062d000 rw-p 0002c000 103:01 6915903                           /home/ubuntu/github/swarm_ecbsllhl/source_codes/ecbs_simple_swarm
+0062d000-19aae7000 rw-p 00000000 00:00 0 
+304000000-3047e4000 r-xp 00000000 103:01 6406574                         /opt/pin-2.14-71313-gcc.4.4.7-linux/intel64/bin/pinbin
+3047e4000-3049e3000 ---p 00000000 00:00 0 
+3049e3000-304a87000 rw-p 007e3000 103:01 6406574                         /opt/pin-2.14-71313-gcc.4.4.7-linux/intel64/bin/pinbin
+304a87000-304aa8000 rw-p 00000000 00:00 0 
+304aa8000-304aad000 rwxp 00000000 00:00 0 
+304aad000-304af9000 rw-p 00000000 00:00 0 
+304af9000-304afe000 rwxp 00000000 00:00 0 
+304aff000-304b17000 rwxp 00000000 00:00 0 
+304b19000-304b66000 rwxp 00000000 00:00 0 
+304b66000-304b67000 ---p 00000000 00:00 0 
+304b67000-304b97000 rw-p 00000000 00:00 0 
+a0000000000-a0002a00000 rw-p 00000000 00:00 0 
+b0000000000-b0000400000 rw-p 00000000 00:00 0 
+c0000000000-c0001200000 rw-p 00000000 00:00 0 
+7fea0073b000-7fea00743000 rwxp 00000000 00:00 0 
+7fea00744000-7fea00748000 rwxp 00000000 00:00 0 
+7fea00749000-7fea00fcd000 rwxp 00000000 00:00 0 
+7fea00fcd000-7fea01120000 rwxp 00000000 00:00 0 
+7fea01120000-7fea01164000 rwxp 00000000 00:00 0 
+7fea01164000-7fea0116b000 rwxp 00000000 00:00 0 
+7fea0116b000-7fea011e7000 rwxp 00000000 00:00 0 
+7fea011e7000-7fea01257000 rwxp 00000000 00:00 0 
+7fea01257000-7fea0125a000 rw-p 00000000 00:00 0 
+7fea0125a000-7fea01363000 rwxp 00000000 00:00 0 
+7fea01363000-7fea01366000 rw-p 00000000 00:00 0 
+7fea01366000-7fea013a1000 rwxp 00000000 00:00 0 
+7fea013a1000-7fea013a6000 rwxp 00000000 00:00 0 
+7fea013a6000-7fea013ab000 rwxp 00000000 00:00 0 
+7fea013ab000-7fea01592000 r-xp 00000000 103:01 55734                     /lib/x86_64-linux-gnu/libc-2.27.so
+7fea01592000-7fea01792000 ---p 001e7000 103:01 55734                     /lib/x86_64-linux-gnu/libc-2.27.so
+7fea01792000-7fea01796000 r--p 001e7000 103:01 55734                     /lib/x86_64-linux-gnu/libc-2.27.so
+7fea01796000-7fea01798000 rw-p 001eb000 103:01 55734                     /lib/x86_64-linux-gnu/libc-2.27.so
+7fea01798000-7fea0179c000 rw-p 00000000 00:00 0 
+7fea0179c000-7fea017b3000 r-xp 00000000 103:01 59036                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fea017b3000-7fea019b2000 ---p 00017000 103:01 59036                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fea019b2000-7fea019b3000 r--p 00016000 103:01 59036                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fea019b3000-7fea019b4000 rw-p 00017000 103:01 59036                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fea019b4000-7fea01b51000 r-xp 00000000 103:01 55743                     /lib/x86_64-linux-gnu/libm-2.27.so
+7fea01b51000-7fea01d50000 ---p 0019d000 103:01 55743                     /lib/x86_64-linux-gnu/libm-2.27.so
+7fea01d50000-7fea01d51000 r--p 0019c000 103:01 55743                     /lib/x86_64-linux-gnu/libm-2.27.so
+7fea01d51000-7fea01d52000 rw-p 0019d000 103:01 55743                     /lib/x86_64-linux-gnu/libm-2.27.so
+7fea01d52000-7fea01ecb000 r-xp 00000000 103:01 6241                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7fea01ecb000-7fea020cb000 ---p 00179000 103:01 6241                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7fea020cb000-7fea020d5000 r--p 00179000 103:01 6241                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7fea020d5000-7fea020d7000 rw-p 00183000 103:01 6241                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7fea020d7000-7fea020db000 rw-p 00000000 00:00 0 
+7fea020db000-7fea02152000 r-xp 00000000 103:01 59786                     /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.5.2
+7fea02152000-7fea02352000 ---p 00077000 103:01 59786                     /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.5.2
+7fea02352000-7fea02353000 r--p 00077000 103:01 59786                     /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.5.2
+7fea02353000-7fea02354000 rw-p 00078000 103:01 59786                     /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.5.2
+7fea02354000-7fea02355000 rw-p 00000000 00:00 0 
+7fea02355000-7fea02361000 rwxp 00000000 00:00 0 
+7fea02361000-7fea0236d000 rwxp 00000000 00:00 0 
+7fea0236d000-7fea0236f000 rwxp 00000000 00:00 0 
+7fea0236f000-7fea02370000 rwxp 00000000 00:00 0 
+7fea02370000-7fea02372000 rw-p 00000000 00:00 0 
+7fea02372000-7fea023ef000 r-xp 00000000 103:01 63554                     /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.65.1
+7fea023ef000-7fea025ef000 ---p 0007d000 103:01 63554                     /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.65.1
+7fea025ef000-7fea025f2000 r--p 0007d000 103:01 63554                     /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.65.1
+7fea025f2000-7fea025f3000 rw-p 00080000 103:01 63554                     /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.65.1
+7fea025f3000-7fea02612000 rwxp 00000000 00:00 0 
+7fea02612000-7fea02613000 rwxp 00000000 00:00 0 
+7fea02613000-7fea0262d000 r-xp 00000000 103:01 55772                     /lib/x86_64-linux-gnu/libpthread-2.27.so
+7fea0262d000-7fea0282c000 ---p 0001a000 103:01 55772                     /lib/x86_64-linux-gnu/libpthread-2.27.so
+7fea0282c000-7fea0282d000 r--p 00019000 103:01 55772                     /lib/x86_64-linux-gnu/libpthread-2.27.so
+7fea0282d000-7fea0282e000 rw-p 0001a000 103:01 55772                     /lib/x86_64-linux-gnu/libpthread-2.27.so
+7fea0282e000-7fea02832000 rw-p 00000000 00:00 0 
+7fea02832000-7fea0288c000 rwxp 00000000 00:00 0 
+7fea0288c000-7fea0288f000 rwxp 00000000 00:00 0 
+7fea0288f000-7fea02894000 rwxp 00000000 00:00 0 
+7fea02894000-7fea02897000 rwxp 00000000 00:00 0 
+7fea02897000-7fea0289d000 rwxp 00000000 00:00 0 
+7fea0289d000-7fea029a2000 rwxp 00000000 00:00 0 
+7fea029a2000-7fea029a4000 rw-p 00000000 00:00 0 
+7fea029a4000-7fea02d7e000 rwxp 00000000 00:00 0 
+7fea02d7e000-7fea02dc1000 rwxp 00000000 00:00 0 
+7fea02dc1000-7fea02dfe000 rwxp 00000000 00:00 0 
+7fea02dfe000-7fea02f99000 r--p 00000000 103:01 7757                      /usr/lib/locale/locale-archive
+7fea02f99000-7fea032cb000 rwxp 00000000 00:00 0 
+7fea032cb000-7fea03305000 rwxp 00000000 00:00 0 
+7fea03305000-7fea0330d000 rwxp 00000000 00:00 0 
+7fea0330d000-7fea03314000 r--s 00000000 103:01 56026                     /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7fea03314000-7fea0690a000 rwxp 00000000 00:00 0 
+7fea0690a000-7fea85fea000 ---p 00000000 00:00 0 
+7fea85fea000-7fea867ed000 rwxp 00000000 00:00 0 
+7fea867ed000-7fea87551000 rw-p 00000000 00:00 0 
+7fea87551000-7fea87558000 r-xp 00000000 103:01 58260                     /usr/lib/x86_64-linux-gnu/libaec.so.0.0.3
+7fea87558000-7fea87757000 ---p 00007000 103:01 58260                     /usr/lib/x86_64-linux-gnu/libaec.so.0.0.3
+7fea87757000-7fea87758000 r--p 00006000 103:01 58260                     /usr/lib/x86_64-linux-gnu/libaec.so.0.0.3
+7fea87758000-7fea87759000 rw-p 00007000 103:01 58260                     /usr/lib/x86_64-linux-gnu/libaec.so.0.0.3
+7fea87759000-7fea87775000 r-xp 00000000 103:01 2152                      /lib/x86_64-linux-gnu/libz.so.1.2.11
+7fea87775000-7fea87974000 ---p 0001c000 103:01 2152                      /lib/x86_64-linux-gnu/libz.so.1.2.11
+7fea87974000-7fea87975000 r--p 0001b000 103:01 2152                      /lib/x86_64-linux-gnu/libz.so.1.2.11
+7fea87975000-7fea87976000 rw-p 0001c000 103:01 2152                      /lib/x86_64-linux-gnu/libz.so.1.2.11
+7fea87976000-7fea87978000 r-xp 00000000 103:01 58313                     /usr/lib/x86_64-linux-gnu/libsz.so.2.0.1
+7fea87978000-7fea87b77000 ---p 00002000 103:01 58313                     /usr/lib/x86_64-linux-gnu/libsz.so.2.0.1
+7fea87b77000-7fea87b78000 r--p 00001000 103:01 58313                     /usr/lib/x86_64-linux-gnu/libsz.so.2.0.1
+7fea87b78000-7fea87b79000 rw-p 00002000 103:01 58313                     /usr/lib/x86_64-linux-gnu/libsz.so.2.0.1
+7fea87b79000-7fea87b93000 r-xp 00000000 103:01 55772                     /lib/x86_64-linux-gnu/libpthread-2.27.so
+7fea87b93000-7fea87d92000 ---p 0001a000 103:01 55772                     /lib/x86_64-linux-gnu/libpthread-2.27.so
+7fea87d92000-7fea87d93000 r--p 00019000 103:01 55772                     /lib/x86_64-linux-gnu/libpthread-2.27.so
+7fea87d93000-7fea87d94000 rw-p 0001a000 103:01 55772                     /lib/x86_64-linux-gnu/libpthread-2.27.so
+7fea87d94000-7fea87d98000 rw-p 00000000 00:00 0 
+7fea87d98000-7fea87dad000 r-xp 00000000 103:01 59614                     /usr/lib/x86_64-linux-gnu/libconfig++.so.9.2.0
+7fea87dad000-7fea87fac000 ---p 00015000 103:01 59614                     /usr/lib/x86_64-linux-gnu/libconfig++.so.9.2.0
+7fea87fac000-7fea87fad000 r--p 00014000 103:01 59614                     /usr/lib/x86_64-linux-gnu/libconfig++.so.9.2.0
+7fea87fad000-7fea87fae000 rw-p 00015000 103:01 59614                     /usr/lib/x86_64-linux-gnu/libconfig++.so.9.2.0
+7fea87fae000-7fea87fcf000 r-xp 00000000 103:01 58321                     /usr/lib/x86_64-linux-gnu/libhdf5_serial_hl.so.100.0.0
+7fea87fcf000-7fea881ce000 ---p 00021000 103:01 58321                     /usr/lib/x86_64-linux-gnu/libhdf5_serial_hl.so.100.0.0
+7fea881ce000-7fea881cf000 r--p 00020000 103:01 58321                     /usr/lib/x86_64-linux-gnu/libhdf5_serial_hl.so.100.0.0
+7fea881cf000-7fea881d0000 rw-p 00021000 103:01 58321                     /usr/lib/x86_64-linux-gnu/libhdf5_serial_hl.so.100.0.0
+7fea881d0000-7fea881d1000 rw-p 00000000 00:00 0 
+7fea881d1000-7fea88519000 r-xp 00000000 103:01 58319                     /usr/lib/x86_64-linux-gnu/libhdf5_serial.so.100.0.1
+7fea88519000-7fea88719000 ---p 00348000 103:01 58319                     /usr/lib/x86_64-linux-gnu/libhdf5_serial.so.100.0.1
+7fea88719000-7fea88721000 r--p 00348000 103:01 58319                     /usr/lib/x86_64-linux-gnu/libhdf5_serial.so.100.0.1
+7fea88721000-7fea88726000 rw-p 00350000 103:01 58319                     /usr/lib/x86_64-linux-gnu/libhdf5_serial.so.100.0.1
+7fea88726000-7fea88729000 rw-p 00000000 00:00 0 
+7fea88729000-7fea88730000 r-xp 00000000 103:01 55774                     /lib/x86_64-linux-gnu/librt-2.27.so
+7fea88730000-7fea8892f000 ---p 00007000 103:01 55774                     /lib/x86_64-linux-gnu/librt-2.27.so
+7fea8892f000-7fea88930000 r--p 00006000 103:01 55774                     /lib/x86_64-linux-gnu/librt-2.27.so
+7fea88930000-7fea88931000 rw-p 00007000 103:01 55774                     /lib/x86_64-linux-gnu/librt-2.27.so
+7fea88931000-7fea892e7000 r-xp 00000000 103:01 6674669                   /home/ubuntu/github/swarm_simvp/build/opt/trace_sim/speculator_fast.so
+7fea892e7000-7fea894e6000 ---p 009b6000 103:01 6674669                   /home/ubuntu/github/swarm_simvp/build/opt/trace_sim/speculator_fast.so
+7fea894e6000-7fea89591000 r--p 009b5000 103:01 6674669                   /home/ubuntu/github/swarm_simvp/build/opt/trace_sim/speculator_fast.so
+7fea89591000-7fea89594000 rw-p 00a60000 103:01 6674669                   /home/ubuntu/github/swarm_simvp/build/opt/trace_sim/speculator_fast.so
+7fea89594000-7fea89c59000 rw-p 00000000 00:00 0 
+7fea89c59000-7fea89e40000 r-xp 00000000 103:01 55734                     /lib/x86_64-linux-gnu/libc-2.27.so
+7fea89e40000-7fea8a040000 ---p 001e7000 103:01 55734                     /lib/x86_64-linux-gnu/libc-2.27.so
+7fea8a040000-7fea8a044000 r--p 001e7000 103:01 55734                     /lib/x86_64-linux-gnu/libc-2.27.so
+7fea8a044000-7fea8a046000 rw-p 001eb000 103:01 55734                     /lib/x86_64-linux-gnu/libc-2.27.so
+7fea8a046000-7fea8a04a000 rw-p 00000000 00:00 0 
+7fea8a04a000-7fea8a061000 r-xp 00000000 103:01 59036                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fea8a061000-7fea8a260000 ---p 00017000 103:01 59036                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fea8a260000-7fea8a261000 r--p 00016000 103:01 59036                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fea8a261000-7fea8a262000 rw-p 00017000 103:01 59036                     /lib/x86_64-linux-gnu/libgcc_s.so.1
+7fea8a262000-7fea8a3ff000 r-xp 00000000 103:01 55743                     /lib/x86_64-linux-gnu/libm-2.27.so
+7fea8a3ff000-7fea8a5fe000 ---p 0019d000 103:01 55743                     /lib/x86_64-linux-gnu/libm-2.27.so
+7fea8a5fe000-7fea8a5ff000 r--p 0019c000 103:01 55743                     /lib/x86_64-linux-gnu/libm-2.27.so
+7fea8a5ff000-7fea8a600000 rw-p 0019d000 103:01 55743                     /lib/x86_64-linux-gnu/libm-2.27.so
+7fea8a600000-7fea8a779000 r-xp 00000000 103:01 6241                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7fea8a779000-7fea8a979000 ---p 00179000 103:01 6241                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7fea8a979000-7fea8a983000 r--p 00179000 103:01 6241                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7fea8a983000-7fea8a985000 rw-p 00183000 103:01 6241                      /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25
+7fea8a985000-7fea8a989000 rw-p 00000000 00:00 0 
+7fea8a989000-7fea8a98c000 r-xp 00000000 103:01 55741                     /lib/x86_64-linux-gnu/libdl-2.27.so
+7fea8a98c000-7fea8ab8b000 ---p 00003000 103:01 55741                     /lib/x86_64-linux-gnu/libdl-2.27.so
+7fea8ab8b000-7fea8ab8c000 r--p 00002000 103:01 55741                     /lib/x86_64-linux-gnu/libdl-2.27.so
+7fea8ab8c000-7fea8ab8d000 rw-p 00003000 103:01 55741                     /lib/x86_64-linux-gnu/libdl-2.27.so
+7fea8ab8d000-7fea8abb6000 r-xp 00000000 103:01 55517                     /lib/x86_64-linux-gnu/ld-2.27.so
+7fea8abb6000-7fea8adb6000 ---p 00000000 00:00 0 
+7fea8adb6000-7fea8adb7000 r--p 00029000 103:01 55517                     /lib/x86_64-linux-gnu/ld-2.27.so
+7fea8adb7000-7fea8adb8000 rw-p 0002a000 103:01 55517                     /lib/x86_64-linux-gnu/ld-2.27.so
+7fea8adb8000-7fea8adb9000 rw-p 00000000 00:00 0 
+7fea8adb9000-7fea8ade2000 r-xp 00000000 103:01 55517                     /lib/x86_64-linux-gnu/ld-2.27.so
+7fea8ade2000-7fea8adf4000 rwxp 00000000 00:00 0 
+7fea8adf4000-7fea8ae81000 rw-p 00000000 00:00 0 
+7fea8ae81000-7fea8ae83000 rwxp 00000000 00:00 0 
+7fea8ae83000-7fea8aebd000 rw-p 00000000 00:00 0 
+7fea8aebd000-7fea8aedc000 rwxp 00000000 00:00 0 
+7fea8afdc000-7fea8afe2000 rwxp 00000000 00:00 0 
+7fea8afe2000-7fea8afe3000 r--p 00029000 103:01 55517                     /lib/x86_64-linux-gnu/ld-2.27.so
+7fea8afe3000-7fea8afe4000 rw-p 0002a000 103:01 55517                     /lib/x86_64-linux-gnu/ld-2.27.so
+7fea8afe4000-7fea8afe5000 rw-p 00000000 00:00 0 
+7fff15cbd000-7fff15cde000 rw-p 00000000 00:00 0                          [stack]
+7fff15d51000-7fff15d54000 r--p 00000000 00:00 0                          [vvar]
+7fff15d54000-7fff15d55000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

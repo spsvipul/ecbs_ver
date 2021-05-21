@@ -1,0 +1,19 @@
+Running on: ip-10-19-18-34
+PID: 30264
+Harness PID: 30260
+Start time: Thu May 20 17:42:34 2021
+Current time: Thu May 20 17:44:27 2021
+In fast-forward: yes, since Thu May 20 17:44:24 2021
+Stats since start:
+ 6274676 cycles
+ 55528 cycles/s
+ 25871045 task-cycles committed
+ 202820470 task-cycles aborted
+ 7844 tasks committed
+ 583675 task aborts
+ 0 application heartbeats committed
+Current gvt:
+ infinity
+Stats in last interval (3s):
+ 74346 cycles
+ 24782 cycles/s
