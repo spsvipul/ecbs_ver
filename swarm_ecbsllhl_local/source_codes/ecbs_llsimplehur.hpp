@@ -518,7 +518,7 @@ void star_t(swarm::Timestamp tt, int si,HighLevelNode *newNode){
      //int j=0;
 		 for (const auto& c : constraints) {
 			 size_t i = c.first;
-			 int new_nodeid = index(nodeid, child_id) % 480;
+			 int new_nodeid = index(nodeid, child_id) ;
        //int new_nodeid = 0;
 
 			 if(new_nodeid > MAX_NODE_NUMS) {
